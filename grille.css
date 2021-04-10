@@ -1,0 +1,19 @@
+#grilleHeader{
+    height: 400px;
+    width: 70%;
+}
+
+.moveUp{
+    display: inline-block;
+    margin-bottom: 15%;
+}
+
+#silveradoGrilleHeader{
+    height: 400px;
+    width: 100%;
+}
+
+#SeiraaGrilleHeader{
+    height: 400px;
+    width: 100%;
+}

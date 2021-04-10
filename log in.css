@@ -1,0 +1,42 @@
+
+.logInForm{
+    text-align: center;
+    border: 1px rgb(202, 202, 202) solid;
+    background-color: rgb(253, 253, 253);
+    margin: 5% 33%;
+    height: 40%;
+    width: 33.33%;
+    border-radius: 2%;
+    
+}
+input{
+    margin: 5% 0%;
+    padding: 2%;
+    border: 1px solid gray;
+}
+input[name=submit]{
+    border: none;
+    border-radius: 5px;
+    margin-left: 14%;
+    color: azure;
+    background-color:#ff9900;
+    width: 100px;
+    height: 50px;
+}
+a{
+    color: azure;
+    text-decoration: none;
+}
+div form div a{
+    color: black;
+    
+}
+
+.EmptyUser{
+    border: red;
+}
+
+.er{
+    color:red;
+    
+}

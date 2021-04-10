@@ -1,0 +1,61 @@
+
+.picPosition{
+    text-align: center;
+     width: 60%;
+     height: 100%;
+     margin-left: 20%;
+     margin-top: 5%;
+}
+.background{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+#wheelsHeader{
+    height: 400px;
+    width: 100%;
+}
+/*#wheelsHeaderContainer{
+    margin-top: 2%;
+}*/
+
+.font{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: black; 
+    font-size: medium;
+}
+.container{
+    min-height: 279px;
+    min-width: 250px;
+}
+
+ul{
+     list-style: decimal;
+     margin-right: 50px;
+     text-align: left;
+     list-style: none;
+}
+li{
+    display: inline;
+}
+
+.picPlace{
+    display: inline-block;
+}
+.firstElement{
+    display: inline-block;
+}
+.pic3Place{
+    display: inline-block;
+    margin-bottom: 7%;
+}
+
+.information{
+    display: block;
+}
+.price{
+    color: green;
+}
+

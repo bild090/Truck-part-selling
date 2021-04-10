@@ -1,0 +1,79 @@
+
+.picPosition{
+    text-align: center;
+     width: 60%;
+     height: 100%;
+     margin-left: 20%;
+}
+
+.Parts{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: darkblue; 
+}
+
+ul{
+     list-style: decimal;
+     margin-right: 50px;
+     text-align: left;
+     list-style: none;
+}
+li{
+    display: inline;
+   
+}
+
+.imgPart{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.partsName{
+    display: inline-block;
+    font-size:larger ;
+}
+
+#Wheels{
+    margin-left: 20%;
+    
+}
+
+#Grille{
+    margin-left: 30%;
+}
+
+#Lights{
+    margin-left: 28%;
+}
+
+#Suspension{
+margin-left: 9%;
+}
+
+#exteriorParts{
+    margin-left: 15%;
+}
+
+#Engine{
+    margin-left: 45%;
+}
+
+.picPlace{
+    display: inline-block;
+    margin-left: 4%;
+}
+.firstElement{
+    display: inline-block;
+    font-size:larger ;
+}
+.GrillePlace{
+    display: inline-block;
+    margin-left: 12%;
+}
+
+.PartsHover :hover{
+    color: #ff9900;
+}
+.PartsHover a{
+    color: darkblue; 
+}
